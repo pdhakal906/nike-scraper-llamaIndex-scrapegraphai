@@ -14,3 +14,8 @@ Create **.env** file, add the api keys inside:
 TOGETHER_API_KEY=yourapikey
 
 SGAI_API_KEY=yourapikey
+
+
+// ignore this, for reference only
+pip install llama-index-llms-together
+
